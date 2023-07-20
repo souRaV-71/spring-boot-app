@@ -1,0 +1,14 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Spring Boot-SpringbootDockerAwsEcsApplication<springboot-docker-aws-ecs>",
+         "request": "launch",
+         "cwd": "${workspaceFolder}",
+         "mainClass": "com.srv.aws.ecs.springbootdockerawsecs.SpringbootDockerAwsEcsApplication",
+         "projectName": "springboot-docker-aws-ecs",
+         "args": "",
+         "envFile": "${workspaceFolder}/.env"
+      }
+   ]
+}
